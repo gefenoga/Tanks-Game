@@ -1,0 +1,5 @@
+﻿  header.cpp
+  main.cpp
+C:\Users\gefen\source\repos\TanksGame1\TanksGame1\main.cpp(24,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...
+  TanksGame1.vcxproj -> C:\Users\gefen\source\repos\TanksGame1\x64\Debug\TanksGame1.exe
